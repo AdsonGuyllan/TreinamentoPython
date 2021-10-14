@@ -1,0 +1,10 @@
+nome = input('Qual seu nome? ')
+print('Seja bem vindo(a)', nome,'!')
+dia = input('Que dia você nasceu? ')
+mes = input('Que mês você nasceu? ')
+ano = input('Que ano você nasceu? ')
+print('Sua data de nascimento é', dia, 'de', mes, 'de', ano)
+n = int(input('Digite um número qualquer: '))
+n2 = int(input('Digite outro número: '))
+sum = n + n2
+print('A soma dos valores digitados é:', sum)
